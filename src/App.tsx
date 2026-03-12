@@ -395,7 +395,7 @@ export default function App() {
           >
             <div className="flex items-center justify-center gap-2 md:gap-4 mb-8">
               <div>
-                <img className="w-12 h-12 md:w-24 md:h-24 text-brand-accent bg-transparent overflow-hidden object-contain" src="/Mahbere-Kdusan-Logo.png" alt="Mahbere Kdusan Logo" />
+                <img className="w-10 h-10 md:w-24 md:h-24 text-brand-accent bg-transparent overflow-hidden object-contain" src="/mk-logo-300.png" alt="Mahbere Kdusan Logo" />
               </div>
               
               {/* Stylized Logo Section */}
